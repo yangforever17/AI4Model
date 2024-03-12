@@ -21,4 +21,10 @@
 ## 开发环境
 python版本为3.8
 ## 库信息
+GPy                   1.12.0
+numpy                 1.22.0
+torch                 2.1.2
+pysmithplot-fork      0.2.1
+scikit-learn          1.3.2
+
 待补充...
