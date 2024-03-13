@@ -22,10 +22,10 @@
 python版本为3.8
 ## 库信息
 
-  `GPy                   1.12.0`
-  `numpy                 1.22.0`
-  `torch                 2.1.2`
-  `pysmithplot-fork      0.2.1`
-  `scikit-learn          1.3.2`
+  `GPy                   1.12.0`<br/>
+  `numpy                 1.22.0`<br/>
+  `torch                 2.1.2`<br/>
+  `pysmithplot-fork      0.2.1`<br/>
+  `scikit-learn          1.3.2`<br/>
 
 待补充...
